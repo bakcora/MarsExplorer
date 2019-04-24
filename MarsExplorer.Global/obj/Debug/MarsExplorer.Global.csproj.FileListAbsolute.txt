@@ -47,3 +47,16 @@ C:\PersonalProjects\Me\MarsExplorer.Global\obj\Debug\MarsExplorer.Global.csproj.
 C:\PersonalProjects\Me\MarsExplorer.Global\obj\Debug\MarsExplorer.Global.csproj.CopyComplete
 C:\PersonalProjects\Me\MarsExplorer.Global\obj\Debug\MarsExplorer.Global.dll
 C:\PersonalProjects\Me\MarsExplorer.Global\obj\Debug\MarsExplorer.Global.pdb
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\bin\Debug\MarsExplorer.Global.dll
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\bin\Debug\MarsExplorer.Global.pdb
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\bin\Debug\MarsExplorer.Log.dll
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\bin\Debug\MarsExplorer.Utility.dll
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\bin\Debug\Newtonsoft.Json.dll
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\bin\Debug\MarsExplorer.Log.pdb
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\bin\Debug\MarsExplorer.Utility.pdb
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\bin\Debug\Newtonsoft.Json.xml
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\obj\Debug\MarsExplorer.Global.csprojAssemblyReference.cache
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\obj\Debug\MarsExplorer.Global.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\obj\Debug\MarsExplorer.Global.csproj.CopyComplete
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\obj\Debug\MarsExplorer.Global.dll
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Global\obj\Debug\MarsExplorer.Global.pdb

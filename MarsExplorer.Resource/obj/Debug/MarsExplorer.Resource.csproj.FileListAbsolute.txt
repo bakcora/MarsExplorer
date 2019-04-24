@@ -6,3 +6,11 @@ C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\MarsExplorer.Resource\obj
 C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\MarsExplorer.Resource\obj\Debug\MarsExplorer.Resource.csproj.CoreCompileInputs.cache
 C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\MarsExplorer.Resource\obj\Debug\MarsExplorer.Resource.dll
 C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\MarsExplorer.Resource\obj\Debug\MarsExplorer.Resource.pdb
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\bin\Debug\MarsExplorer.Resource.dll
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\bin\Debug\MarsExplorer.Resource.pdb
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\obj\Debug\MarsExplorer.Resource.csprojAssemblyReference.cache
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\obj\Debug\MarsExplorer.Resource.Resource.resources
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\obj\Debug\MarsExplorer.Resource.csproj.GenerateResource.cache
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\obj\Debug\MarsExplorer.Resource.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\obj\Debug\MarsExplorer.Resource.dll
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Resource\obj\Debug\MarsExplorer.Resource.pdb

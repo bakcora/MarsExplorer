@@ -15,3 +15,9 @@ C:\PersonalProjects\MarsExplorer\MarsExplorer\MarsExplorer.Utility\obj\Debug\Mar
 C:\PersonalProjects\MarsExplorer\MarsExplorer\MarsExplorer.Utility\obj\Debug\MarsExplorer.Utility.csproj.CoreCompileInputs.cache
 C:\PersonalProjects\MarsExplorer\MarsExplorer\MarsExplorer.Utility\obj\Debug\MarsExplorer.Utility.dll
 C:\PersonalProjects\MarsExplorer\MarsExplorer\MarsExplorer.Utility\obj\Debug\MarsExplorer.Utility.pdb
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Utility\bin\Debug\MarsExplorer.Utility.dll
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Utility\bin\Debug\MarsExplorer.Utility.pdb
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Utility\obj\Debug\MarsExplorer.Utility.csprojAssemblyReference.cache
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Utility\obj\Debug\MarsExplorer.Utility.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Utility\obj\Debug\MarsExplorer.Utility.dll
+C:\PersonalProjects\MarsExplorer\MarsExplorer.Utility\obj\Debug\MarsExplorer.Utility.pdb
