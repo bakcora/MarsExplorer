@@ -53,6 +53,8 @@ namespace MarsExplorer.Panel
         {
             using (var scope = Container.BeginLifetimeScope())
             {
+                txtResults.Text = string.Empty;
+
                 var service = scope.Resolve<IParser>();
 
                 var platau = service.ParseMessage(txtCommadPanel.Text);
