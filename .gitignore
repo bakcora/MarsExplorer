@@ -4,6 +4,14 @@
 
 /.vs/MarsExplorer/v15
 /.vs
-**/bin/
-obj/
-config/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
