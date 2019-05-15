@@ -79,11 +79,13 @@ namespace MarsExplorer.Business
 
                     var posStr = roverPos.Split(' ');
                     var rover = new Rover();
-
+                    rover.Plateau = plateau;
+                    
                     rover.Position.X = posStr[0].Trim().ToInt32Value();
                     rover.Position.Y = posStr[1].Trim().ToInt32Value();
                     rover.Direction = Constants.LetterToDirection[posStr[2].Trim()];
                     rover.Name = "Rover_" + roverIndex;
+                    rover.RoverId = roverIndex;
 
                     var rc = new RoverCommander();
                     rc.Rover = rover;

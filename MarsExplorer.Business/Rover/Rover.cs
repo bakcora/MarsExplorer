@@ -3,6 +3,7 @@ using MarsExplorer.Model;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using MarsExplorer.Global.Exception;
 
 namespace MarsExplorer.Business
 {
@@ -11,6 +12,8 @@ namespace MarsExplorer.Business
         private List<Command> UndoList { get; set; }
         private int _index = 0;
         private Explorer Explorer { get; set; }
+        public Plateau Plateau { get; set; }
+        public int RoverId { get; set; }
 
         public Rover()
         {
@@ -51,6 +54,18 @@ namespace MarsExplorer.Business
                         break;
                     }
             }
+
+            foreach (var c in this.Plateau.RoverCommanders)
+            {
+                if (c.Rover.RoverId == this.RoverId)
+                    continue;
+
+                if (c.Rover.Position.X == this.Position.X && c.Rover.Position.Y == this.Position.Y)
+                {
+                    sthrow new BusinessException($"{this.Name} crashed to {c.Rover.Name}");
+                }
+            }
+
         }
         public void Turn(Enums.Sides side)
         {

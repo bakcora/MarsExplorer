@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using Autofac;
 using MarsExplorer.Business;
-using MarsExplorer.Resource;
+
 
 namespace MarsExplorer.Panel
 {
